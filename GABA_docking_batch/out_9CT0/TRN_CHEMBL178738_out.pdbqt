@@ -1,0 +1,530 @@
+MODEL 1
+REMARK VINA RESULT:    -8.583      0.000      0.000
+REMARK INTER + INTRA:         -11.030
+REMARK INTER:                 -10.590
+REMARK INTRA:                  -0.440
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     144.639  96.952 134.594  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     145.649  96.154 134.168  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     145.780  95.978 132.831  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     146.654  95.263 132.060  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     146.369  95.430 130.712  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     145.328  96.226 130.592  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     144.999  96.534 131.865  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     143.948  97.363 132.287  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     143.767  97.571 133.667  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     142.597  98.496 134.001  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     141.324  97.864 133.369  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     141.530  97.631 131.836  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     142.947  98.099 131.400  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     143.073  99.611 131.742  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     142.866  99.845 133.274  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     147.770  94.430 132.538  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     147.634  92.926 132.504  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     148.575  93.619 131.550  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     144.442  97.183 135.939  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     143.665  96.287 136.759  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     142.641  98.303 140.394  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     141.804  97.256 139.975  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     142.122  96.578 138.787  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     143.269  96.966 138.063  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     144.067  97.979 138.467  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     143.759  98.630 139.607  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -8.414      1.901      6.612
+REMARK INTER + INTRA:         -10.822
+REMARK INTER:                  -9.899
+REMARK INTRA:                  -0.923
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     145.000  97.106 134.076  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     144.593  96.826 135.338  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     143.308  97.117 135.655  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     142.568  96.979 136.797  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     141.268  97.420 136.596  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     141.151  97.850 135.358  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     142.376  97.660 134.824  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     142.781  97.958 133.514  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     144.109  97.679 133.139  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     144.426  98.039 131.688  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     144.114  99.554 131.518  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     142.639  99.861 131.939  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     141.924  98.560 132.404  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     141.953  97.554 131.218  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     143.427  97.248 130.796  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     143.030  96.427 138.082  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     143.583  97.365 139.130  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     142.243  96.705 139.342  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     146.292  96.835 133.676  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     146.687  95.528 133.213  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     147.204  95.570 128.963  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     146.238  94.697 129.491  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     146.048  94.668 130.882  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     146.826  95.518 131.697  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     147.758  96.351 131.185  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     147.941  96.375 129.848  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -8.260      2.841      6.890
+REMARK INTER + INTRA:         -10.632
+REMARK INTER:                 -10.209
+REMARK INTRA:                  -0.423
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     141.407  97.971 133.450  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     141.440  97.860 134.801  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     142.480  97.180 135.343  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     142.832  96.873 136.628  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     144.021  96.157 136.653  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     144.440  95.984 135.418  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     143.505  96.600 134.662  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     143.487  96.704 133.263  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     142.424  97.396 132.652  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     142.520  97.448 131.128  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     142.577  95.976 130.626  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     143.757  95.209 131.309  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     144.521  96.146 132.288  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     145.059  97.352 131.466  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     143.880  98.119 130.782  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     142.101  97.241 137.852  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     141.816  96.178 138.888  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     142.824  97.262 139.178  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     140.385  98.651 132.824  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     140.561  99.988 132.312  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     140.023 100.146 128.068  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     139.227  99.242 128.790  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     139.383  99.175 130.183  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     140.325 100.019 130.808  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     141.094 100.882 130.109  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     140.944 100.944 128.769  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -7.902      2.381      6.768
+REMARK INTER + INTRA:         -10.189
+REMARK INTER:                  -9.256
+REMARK INTRA:                  -0.933
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     144.231  97.472 132.764  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     144.203  97.164 134.084  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     143.046  97.397 134.751  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     142.660  97.217 136.050  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     141.339  97.603 136.227  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     140.865  98.038 135.079  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     141.900  97.905 134.222  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     141.911  98.231 132.857  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     143.092  98.013 132.122  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     142.979  98.398 130.648  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     142.572  99.899 130.601  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     141.261 100.138 131.422  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     140.756  98.804 132.041  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     140.494  97.809 130.874  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     141.803  97.571 130.053  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     143.483  96.677 137.145  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     143.634  97.477 138.418  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     142.819  96.208 138.419  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     145.370  97.261 132.015  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     145.759  95.944 131.576  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     144.011  95.072 127.766  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     143.550  94.342 128.874  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     144.106  94.612 130.134  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     145.099  95.609 130.245  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     145.544  96.304 129.175  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     145.010  96.040 127.965  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -7.771      2.722      6.367
+REMARK INTER + INTRA:         -10.028
+REMARK INTER:                  -8.853
+REMARK INTRA:                  -1.175
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     142.935  98.991 132.325  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     143.108  98.656 133.627  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     143.961  97.638 133.899  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     144.370  97.041 135.058  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     145.287  96.033 134.794  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     145.473  95.957 133.494  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     144.673  96.920 132.988  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     144.506  97.253 131.635  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     143.626  98.299 131.303  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     143.535  98.572 129.802  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     143.090  97.244 129.124  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     144.069  96.082 129.499  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     145.195  96.601 130.439  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     145.954  97.732 129.688  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     144.976  98.893 129.312  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     143.944  97.388 136.424  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     142.544  97.037 136.872  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     143.725  96.293 137.442  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     142.087 100.018 131.969  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     140.654  99.889 132.065  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     139.168  97.836 128.615  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     139.192  97.131 129.830  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     139.673  97.785 130.975  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     140.105  99.124 130.869  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     140.086  99.796 129.697  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     139.626  99.165 128.597  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -7.768      2.483      6.583
+REMARK INTER + INTRA:         -10.025
+REMARK INTER:                  -8.932
+REMARK INTRA:                  -1.093
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     141.945  96.275 132.531  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     141.928  96.523 133.863  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     143.123  96.689 134.480  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     143.484  96.944 135.774  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     144.864  97.043 135.888  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     145.404  96.847 134.704  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     144.348  96.639 133.889  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     144.385  96.382 132.509  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     143.169  96.197 131.826  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     143.339  95.932 130.330  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     144.244  94.674 130.191  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     145.593  94.882 130.955  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     145.627  96.285 131.628  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     145.467  97.351 130.507  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     144.119  97.143 129.742  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     142.578  97.117 136.922  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     142.485  96.022 137.959  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     143.153  97.330 138.303  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     140.770  96.099 131.832  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     139.881  97.199 131.547  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     141.697  99.965 128.830  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     141.803 100.239 130.204  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     141.218  99.345 131.114  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     140.553  98.202 130.620  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     140.447  97.946 129.298  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     141.008  98.808 128.425  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -7.688      4.144      6.653
+REMARK INTER + INTRA:          -9.926
+REMARK INTER:                  -8.813
+REMARK INTRA:                  -1.113
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     140.255  96.846 130.631  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     139.916  96.371 129.407  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     140.097  97.198 128.348  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     139.872  97.066 127.006  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     140.248  98.219 126.330  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     140.698  99.096 127.202  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     140.596  98.463 128.390  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     140.951  98.972 129.649  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     140.776  98.153 130.781  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     141.204  98.814 132.090  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     140.379 100.126 132.228  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     140.573 101.032 130.968  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     141.532 100.350 129.951  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     142.893 100.116 130.667  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     142.700  99.212 131.928  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     139.329  95.883 126.318  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     137.832  95.741 126.168  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     138.685  96.038 124.960  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     140.104  96.064 131.757  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     141.026  95.001 132.074  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     144.477  96.558 134.073  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     144.630  96.146 132.739  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     143.512  95.635 132.062  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     142.276  95.561 132.740  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     142.135  95.952 134.025  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     143.212  96.441 134.674  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -7.552      2.862      6.502
+REMARK INTER + INTRA:          -9.758
+REMARK INTER:                  -9.277
+REMARK INTRA:                  -0.481
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     143.677  99.166 131.144  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     143.942  98.691 132.386  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     142.882  98.379 133.171  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     142.768  97.891 134.443  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     141.434  97.725 134.787  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     140.683  98.105 133.775  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     141.569  98.488 132.832  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     141.276  98.979 131.550  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     142.343  99.323 130.699  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     141.898  99.837 129.331  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     140.980 101.067 129.584  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     139.796 100.682 130.533  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     139.891  99.184 130.941  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     139.843  98.335 129.639  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     141.025  98.719 128.690  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     143.872  97.553 135.357  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     143.865  96.213 136.057  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     144.869  96.487 134.965  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     144.702  99.502 130.285  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     145.052  98.673 129.157  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     146.325  94.832 130.555  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     145.082  94.908 129.907  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     144.644  96.156 129.437  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     145.470  97.285 129.625  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     146.662  97.209 130.255  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     147.079  96.008 130.708  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -7.547      3.270      6.052
+REMARK INTER + INTRA:          -9.751
+REMARK INTER:                  -9.395
+REMARK INTRA:                  -0.356
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     141.440  97.868 131.650  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     140.870  98.962 131.086  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     141.304  99.322 129.854  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     140.971 100.339 129.002  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     141.708 100.257 127.829  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     142.515  99.221 127.904  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     142.255  98.686 129.116  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     142.856  97.552 129.684  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     142.443  97.142 130.966  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     143.164  95.894 131.473  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     144.687  96.212 131.462  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     145.141  96.671 130.037  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     143.934  96.674 129.056  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     143.362  95.228 129.005  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     142.908  94.768 130.429  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     139.967 101.390 129.237  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     138.558 100.992 129.612  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     139.456 101.637 130.638  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     141.050  97.436 132.900  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     141.085  98.305 134.050  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     143.744  96.784 137.041  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     144.286  97.078 135.780  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     143.434  97.581 134.784  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     142.070  97.780 135.086  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     141.551  97.489 136.299  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     142.372  97.004 137.254  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -7.539      3.140      6.760
+REMARK INTER + INTRA:          -9.742
+REMARK INTER:                  -8.817
+REMARK INTRA:                  -0.924
+REMARK UNBOUND:                -0.440
+REMARK  Name = ligands_pdb/TRN_CHEMBL178738.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C5_5  and  O1_6
+REMARK    3  A    between atoms: O1_6  and  C6_7
+REMARK    4  A    between atoms: C7_10  and  C8_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C6  T08     1     141.794  96.838 131.279  0.00  0.00    +0.237 A 
+ATOM      2  N1  T08     1     141.998  96.619 132.601  0.00  0.00    -0.125 NA
+ATOM      3  N2  T08     1     143.264  96.755 133.066  0.00  0.00    -0.193 N 
+ATOM      4  C7  T08     1     143.830  96.616 134.302  0.00  0.00    +0.158 A 
+ATOM      5  N3  T08     1     145.190  96.889 134.254  0.00  0.00    -0.132 NA
+ATOM      6  N4  T08     1     145.519  97.191 133.016  0.00  0.00    -0.128 NA
+ATOM      7  C11 T08     1     144.357  97.103 132.333  0.00  0.00    +0.182 A 
+ATOM      8  C12 T08     1     144.165  97.333 130.962  0.00  0.00    +0.010 A 
+ATOM      9  C13 T08     1     142.869  97.196 130.432  0.00  0.00    +0.026 A 
+ATOM     10  C14 T08     1     142.786  97.480 128.932  0.00  0.00    +0.025 C 
+ATOM     11  C15 T08     1     143.772  96.503 128.230  0.00  0.00    +0.009 C 
+ATOM     12  C16 T08     1     145.211  96.654 128.825  0.00  0.00    +0.009 C 
+ATOM     13  C17 T08     1     145.227  97.736 129.943  0.00  0.00    +0.023 C 
+ATOM     14  C18 T08     1     144.755  99.077 129.310  0.00  0.00    +0.009 C 
+ATOM     15  C19 T08     1     143.317  98.926 128.715  0.00  0.00    +0.009 C 
+ENDROOT
+BRANCH   4  16
+ATOM     16  C8  T08     1     143.139  96.248 135.549  0.00  0.00    +0.059 C 
+ATOM     17  C9  T08     1     143.566  96.893 136.847  0.00  0.00    +0.012 C 
+ATOM     18  C10 T08     1     142.237  97.251 136.230  0.00  0.00    +0.012 C 
+ENDBRANCH   4  16
+BRANCH   1  19
+ATOM     19  O1  T08     1     140.534  96.722 130.732  0.00  0.00    -0.469 OA
+BRANCH  19  20
+ATOM     20  C5  T08     1     139.507  97.706 130.970  0.00  0.00    +0.286 C 
+BRANCH  20  24
+ATOM     21  C1  T08     1     140.038 101.082 128.391  0.00  0.00    +0.020 A 
+ATOM     22  C2  T08     1     140.381 101.238 129.745  0.00  0.00    +0.003 A 
+ATOM     23  C3  T08     1     140.218 100.144 130.609  0.00  0.00    +0.027 A 
+ATOM     24  C4  T08     1     139.725  98.929 130.088  0.00  0.00    +0.079 A 
+ATOM     25  N5  T08     1     139.390  98.785 128.787  0.00  0.00    -0.256 NA
+ATOM     26  C20 T08     1     139.545  99.839 127.959  0.00  0.00    +0.111 A 
+ENDBRANCH  20  24
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 4
+ENDMDL
