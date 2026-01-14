@@ -1,0 +1,10 @@
+receptor = receptors/9CT0_receptor.pdbqt
+center_x = 136.741
+center_y = 97.760
+center_z = 134.183
+size_x = 25
+size_y = 25
+size_z = 25
+exhaustiveness = 16
+num_modes = 10
+

@@ -1,0 +1,10 @@
+receptor = receptors/9CRV_receptor.pdbqt
+center_x = 100.672
+center_y = 122.104
+center_z = 144.339
+size_x = 25
+size_y = 25
+size_z = 25
+exhaustiveness = 16
+num_modes = 10
+
